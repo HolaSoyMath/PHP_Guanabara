@@ -1,0 +1,8 @@
+Exercicio 1:
+    > Coletar dados de um formulário com o PHP e utilizar em uma nova página
+
+Exercicio 2:
+    > Pegar informações da pagina através do HTML, com o Radio Button, ou opção de multipla escolha
+
+Exercicio 3:
+    > Alterar opções de CSS usando o PHP a partir de um formulário
